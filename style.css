@@ -1,0 +1,20 @@
+.inner1{
+    border: 3px solid grey;
+    width: 500px;
+    margin-bottom: 4em;
+}
+
+
+.inner2 #inside{
+    border: 3px solid tomato;
+    width: 500px;
+    position: relative;
+}
+
+.box1{
+    display:flex;
+    /* justify-content: space-between; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
