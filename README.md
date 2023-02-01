@@ -1,2 +1,2 @@
 # Flex_containers
-My first project
+Practicing Flexbox
